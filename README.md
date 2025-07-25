@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello there👋🏼
 
+I am Smit Bangare, an architect and tech enthusiast. I currently work as a BIM Architect at Galactic Group.
+With close to 2 years of experience in BIM field, I had the opportunity on various projects and explore Revit automations on projects. 
 <!--
 **smit-8462/smit-8462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
