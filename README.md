@@ -7,6 +7,10 @@ With close to 2 years of experience in BIM field, I had the opportunity on vario
 
 Tools currently under stack - 
 1. Git
+
+Currently learning - 
+1. C#
+2. MySQL
 <!--
 **smit-8462/smit-8462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
