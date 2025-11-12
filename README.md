@@ -1,9 +1,9 @@
 ## Hello there👋🏼
 
 I am Smit Bangare, an architect and tech enthusiast. I currently work as a BIM Architect.
-With close to 2 years of experience in BIM field, I had the opportunity on various projects and explore Revit automations on projects. 
+Having 2 years of experience in BIM field, I had the opportunity to work on various projects and explore Revit automations on projects. 
 
-🧑🏼‍💻 I'm currently on a journey exploring Revit Automation to streamline and enhance my Revit workflows.
+🧑🏼‍💻 I'm currently on a journey exploring Revit Automation to streamline and optimize the Revit workflows.
 
 Tools currently under stack - 
 1. Git
@@ -11,6 +11,7 @@ Tools currently under stack -
 Currently learning - 
 1. C#
 2. MySQL
+3. Python
 <!--
 **smit-8462/smit-8462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
