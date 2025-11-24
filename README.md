@@ -5,7 +5,7 @@ Having 2 years of experience in BIM field, I had the opportunity to work on vari
 
 🧑🏼‍💻 I'm currently on a journey exploring Revit Automation to streamline and optimize the Revit workflows.
 
-Tools currently under stack - 
+Tools under stack - 
 1. Git
 
 Currently learning - 
