@@ -1,28 +1,11 @@
-## Hello there👋🏼
+# Hello there👋🏼
 
-I am Smit Bangare, an architect and tech enthusiast. I currently work as a BIM Architect.
-Having 2 years of experience in BIM field, I had the opportunity to work on various projects and explore Revit automations on projects. 
+😄 I am Smit Bangare, a BIM architect currently based in India.
 
-🧑🏼‍💻 I'm currently on a journey exploring Revit Automation to streamline and optimize the Revit workflows.
+🧑🏼‍💻 Having 2 years of experience in BIM field, I had the opportunity to work on various projects, implementing Revit automations on projects, using pyRevit. 
 
-Tools under stack - 
-1. Git
+🖥️ Being a tech nerd, I love to go in deep-trenches to learn more about the processes involved in designing software, and in process improving my understanding and implementation of my code base. 
 
-Currently learning - 
-1. C#
-2. MySQL
-3. Python
-<!--
-**smit-8462/smit-8462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently, I have [pyChai](https://github.com/smit-8462/pyChai) pyRevit extension for Revit.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪄 My main tech stack involves Git, Python, WPF. The documentation is done on Obsidian.
